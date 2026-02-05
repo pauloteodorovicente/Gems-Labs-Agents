@@ -1,4 +1,4 @@
-Esse repositório guarda todos materiais utilizados para construir diversos Gems. Tais como: 
+Nesse repositório guardo todos materiais utilizados para construir diversos Gems, Labs e Agentes. Tais como: 
 - System Prompts;
 - System Instructions;
 - PRDs
